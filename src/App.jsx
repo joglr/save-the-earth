@@ -22,6 +22,7 @@ const StyledButton = styled.button`
     text-decoration: underline;
     outline: none;
   }
+  user-select: none;
 `
 const StyledDiv = styled.div`
   ${globalStyles}
